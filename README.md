@@ -4,6 +4,9 @@
 
 > **HELLO MICROVERSE** is the first microverses portal project to help learners setting their work and document their **RESPOSITORIES**
 
+## Getting Started
+
+to launch the project you need a modern browser and double click on **index.html**
 
 ## Built With
 
@@ -11,14 +14,13 @@
 - CSS
 - HTML AND CSS LINTERS
 
-
-## Authors
+## Author
 
 👤 **Joffrey**
 
-- GitHub: [@githubhandle](https://github.com/JoffreyNK)
-- Twitter: [@twitterhandle](https://twitter.com/home)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
+- GitHub: [@joffreynk](https://github.com/JoffreyNK)
+- Twitter: [@joffreynk](https://twitter.com/home)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/joffrey-nkeshimana-15b8aa1b3/)
 
 
 Give a ⭐️ if you like this project!
